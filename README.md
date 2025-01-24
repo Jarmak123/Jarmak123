@@ -1,10 +1,14 @@
 ## Hello world! Jarmak
 
 # 💫 About Me:
-<div align="center" style="font-family: Comic Sans MS, serif;">
-My name is Jakub and I am a IT Student from Poland.<br>
-I enjoy using Linux, progamming in Phyton and C#.<br><br>
+<div align="center" style="font-family: 'Comic Sans MS', cursive;">
+My name is Jakub, and I am an IT student from Poland.<br>
+I enjoy using Linux and programming in Python and C#.<br><br>
 Apple enthusiast. 🍎
+</div>
+
+<div style="font-family: 'Comic Sans MS', cursive;">
+Ten tekst jest wyświetlany w czcionce Comic Sans.
 </div>
 
 # 💻 Tech Stack:
