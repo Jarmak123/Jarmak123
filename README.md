@@ -24,6 +24,7 @@ Apple enthusiast. 🍎
     <img src="https://github-readme-stats.vercel.app/api?username=Jarmak123&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarmak123&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="GitHub stats" />
 
 
 
