@@ -1,12 +1,10 @@
 ## Hello JRMK here👋
 
 # 💫 About Me:
-<p style="text-align:center">My name is Jakub and I am a IT Student from Poland.<br>
-I enjoy using Linux, progamming in Phyton and C#.<br><br>
-Apple enthusiast. 🍎</p>
-
 <div align="center">
-Ten tekst będzie wyśrodkowany.
+My name is Jakub and I am a IT Student from Poland.<br>
+I enjoy using Linux, progamming in Phyton and C#.<br><br>
+Apple enthusiast. 🍎
 </div>
 
 # 💻 Tech Stack:
