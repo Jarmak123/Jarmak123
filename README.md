@@ -1,8 +1,6 @@
 <h1 align="center">Hello world! JRMK here! 👋😎</h1> 
 <div align="center">
-  You are 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge"  /> th
-  visitor here.
+  <img src="https://komarev.com/ghpvc/?username=Jarmak123&style=for-the-badge"  />
 </div>
 
 # 🤓 About me:
