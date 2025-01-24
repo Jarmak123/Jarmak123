@@ -1,5 +1,5 @@
 ## Hello JRMK here👋
-<html>
+
 # 💫 About Me:
 <p style="text-align:center">My name is Jakub and I am a IT Student from Poland.<br>
 I enjoy using Linux, progamming in Phyton and C#.<br><br>
@@ -10,5 +10,5 @@ Apple enthusiast. 🍎</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jarmak123&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarmak123&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</html>
+
 
