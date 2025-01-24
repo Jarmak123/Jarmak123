@@ -1,10 +1,17 @@
-## Hello JRMK here👋
+<style>
+.text {
+    font-family: 'Comic Sans MS', serif;
+    align:center;
+}
+</style>
+
+## Hello world! Jarmak
 
 # 💫 About Me:
-<div align="center">
+<div class="text">
 My name is Jakub and I am a IT Student from Poland.<br>
 I enjoy using Linux, progamming in Phyton and C#.<br><br>
-Apple devices enthusiast. 🍎
+Apple enthusiast. 🍎
 </div>
 
 # 💻 Tech Stack:
