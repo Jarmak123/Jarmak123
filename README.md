@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! Jarmak here! 👋😎</h1> 
+<h1 align="center">Hello world! JRMK here! 👋😎</h1> 
 
 # 🤓 About me:
 <div align="center" style="font-family: 'Comic Sans MS', cursive;">
