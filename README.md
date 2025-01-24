@@ -1,4 +1,9 @@
 <h1 align="center">Hello world! JRMK here! 👋😎</h1> 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JRMK/count.svg?"  />
+</div>
+
+###
 
 # 🤓 About me:
 <div align="center" style="font-family: 'Comic Sans MS', cursive;">
