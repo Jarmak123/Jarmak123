@@ -4,7 +4,7 @@
 <div align="center">
 My name is Jakub and I am a IT Student from Poland.<br>
 I enjoy using Linux, progamming in Phyton and C#.<br><br>
-Apple enthusiast. 🍎
+Apple devices enthusiast. 🍎
 </div>
 
 # 💻 Tech Stack:
