@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! Jarmak here! 👋😎</h1> 
 
-<h2 align="center">Hello world! Jarmak here! 👋😎</h2> 
+<h2 align="center">About me:</h2> 
 <div align="center" style="font-family: 'Comic Sans MS', cursive;">
 My name is Jakub, and I am an IT student from Poland.<br>
 I enjoy using Linux and programming in Python and C#.<br><br>
