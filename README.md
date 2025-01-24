@@ -3,8 +3,6 @@
   <img src="https://profile-counter.glitch.me/JRMK/count.svg?"  />
 </div>
 
-###
-
 # 🤓 About me:
 <div align="center" style="font-family: 'Comic Sans MS', cursive;">
 My name is Jakub, and I am an IT student from Poland.<br>
