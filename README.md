@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! JRMK here! 👋😎</h1> 
 <div align="center">
   You are 
-  <img src="https://profile-counter.glitch.me/JRMK/count.svg?"  /> th
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge"  /> th
   visitor here.
 </div>
 
