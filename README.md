@@ -1,14 +1,7 @@
-<style>
-.text {
-    font-family: 'Comic Sans MS', serif;
-    align:center;
-}
-</style>
-
 ## Hello world! Jarmak
 
 # 💫 About Me:
-<div class="text">
+<div align="center" style="font-family: Comic Sans MS, serif;">
 My name is Jakub and I am a IT Student from Poland.<br>
 I enjoy using Linux, progamming in Phyton and C#.<br><br>
 Apple enthusiast. 🍎
