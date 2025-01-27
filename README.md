@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! Jarmakowitz here! 👋😎</h1> 
+<h1 align="center">Hello world! JRMK here! 👋😎</h1> 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jarmak123&style=for-the-badge&label=👀"/>
 </div>
