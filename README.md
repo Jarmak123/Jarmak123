@@ -6,7 +6,7 @@
 # 🤓 About me:
 <div align="center" style="font-family: 'Comic Sans MS', cursive;">
 My name is Jakub, and I am an IT student from Poland.<br>
-I enjoy using Linux and programming in Python and C#.<br><br>
+I enjoy using Linux and programming in Java, Python and C#.<br><br>
 Apple enthusiast. 🍎
 </div>
 
